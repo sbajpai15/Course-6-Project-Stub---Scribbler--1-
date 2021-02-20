@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 0;
+  }
+
+  .logoText {
+    font-family: "Montez", cursive;
+    color: blue;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .subHeading {
+    font-family: "Ubuntu Mono", monospace;
+    margin: 0;
+    font-weight: normal
+  }
